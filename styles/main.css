@@ -1,4 +1,4 @@
-    main {
+    .conteiner {
         display: flex;
         flex-wrap: nowrap;
         gap: 24px;
